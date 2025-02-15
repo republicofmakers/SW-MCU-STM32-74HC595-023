@@ -12,11 +12,11 @@ You can add more 74HC595 in series, so you can have lots of gpio with only 3 pin
 
 <img width="615" alt="start" src="https://github.com/user-attachments/assets/e33905c3-354c-4c83-a471-fef60cca09be" />
 
-(starts)
+(start)
 
 <img width="603" alt="all leds" src="https://github.com/user-attachments/assets/cb693bf4-db64-43e6-8d5a-59b186f5697e" />
 
-(ends)
+(end)
 
 Hope this helps you.
 
